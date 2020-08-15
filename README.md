@@ -1,2 +1,2 @@
 # MLBostonDataPricing_Azubi
-A machine leaning assignment
+A machine learning assignment
